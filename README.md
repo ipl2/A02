@@ -51,7 +51,7 @@ Glossary:
 - <b>Remote</b>: repositories that are not within your local disk that are stored elsewhere
 - <b>Repository</b>: stores files that can easily be monitored, changed, and/or organized remotely
 
-Refrences:
+References:
 <p>https://www.geeksforgeeks.org/what-is-a-git-repository/</p>
 <p>https://stackoverflow.com/questions/20889346/what-does-git-remote-mean</p>
 <p>https://github.com/git-guides/git-pull</p>
