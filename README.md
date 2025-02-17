@@ -14,9 +14,9 @@ Step two: Create Repository
 
 Step three: Downloads
 - Download the following:
-Github Desktop: https://desktop.github.com/download/
-Visual Studio Code: https://code.visualstudio.com/docs/?dv=win64user
-Git: https://git-scm.com/downloads
+<p>Github Desktop: https://desktop.github.com/download/<p>
+<p>Visual Studio Code: https://code.visualstudio.com/docs/?dv=win64user<p>
+<p>Git: https://git-scm.com/downloads<p>
 
 Step four: Set up Github Desktop
 - Open download for Github Desktop
