@@ -14,9 +14,9 @@ Step two: Create Repository
 
 Step three: Downloads
 - Download the following:
-<p>Github Desktop: https://desktop.github.com/download/<p>
-<p>Visual Studio Code: https://code.visualstudio.com/docs/?dv=win64user<p>
-<p>Git: https://git-scm.com/downloads<p>
+<p>Github Desktop: https://desktop.github.com/download/</p>
+<p>Visual Studio Code: https://code.visualstudio.com/docs/?dv=win64user</p>
+<p>Git: https://git-scm.com/downloads</p>
 
 Step four: Set up Github Desktop
 - Open download for Github Desktop
@@ -37,3 +37,23 @@ Step six: Set up Visual Studio Code
 - Check mark trust authors and click yes, i trust
 - Visual Studio Code is ready to be used
 
+Glossary:
+- <b>Branch</b>: a copy of main that allows you to work independently to safely make changes without affecting the code
+- <b>Clone</b>: duplicating and downloading everything in a repository
+- <b>Commit</b>: record of changes that occur within the code and/or file
+- <b>Fetch</b>: updates from a local repository with changes from a remote one without changing the working directory
+- <b>GIT</b>:a distributed version control software that saves changes without overwriting previous ones
+- <b>Github</b>: a developer platform where developers can share and create their code
+- <b>Merge</b>: command that combines changes of a branch or more
+- <b>Merge Conflict</b>: a conflict in which the modification of the same branches are merged in the same region of file
+- <b>Push</b>: allows the transferring of files between a local and remote repository hosting services
+- <b>Pull</b>: combination of merge and merge that updates parts of local repository with the changes made in the remote repository
+- <b>Remote</b>: repositories that are not within your local disk that are stored elsewhere
+- <b>Repository</b>: stores files that can easily be monitored, changed, and/or organized remotely
+
+Refrences:
+<p>https://www.geeksforgeeks.org/what-is-a-git-repository/</p>
+<p>https://stackoverflow.com/questions/20889346/what-does-git-remote-mean</p>
+<p>https://github.com/git-guides/git-pull</p>
+<p>https://gitscripts.com/what-does-git-fetch-do</p>
+<p>https://dev.to/trinityyi/understanding-git-branching-in5minutes48bk#:~:text=In%20Git%2C%20a%20branch%20is%20a%20separate%20line,safely%20make%20changes%20without%20affecting%20the%20stable%20code.</p>
